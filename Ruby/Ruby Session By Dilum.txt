@@ -1,0 +1,23 @@
+// Ruby Versions and difference
+// Ruby MRI
+// Concurrency and Parallel Processing
+// Thread Switching (Concurrency)
+// DeadLocks
+// Gloabal Interpriter Low
+// Ruby Version Manager
+// Ruby RvM
+// Tender Love garbage Collector
+// OOP Lang
+// FixNum
+// Duck Types
+// OpenClasses
+// Bundle Creation in Ruby
+// Elexia Vallim
+// Fellix Krause
+// Issue Trackers in GitHub
+// Mailing List and Google Groups
+// Add Large Patches
+// Proposals
+
+
+

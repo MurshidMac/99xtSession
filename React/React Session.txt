@@ -1,0 +1,27 @@
+React JS
+Harshana Abeyratabe
+github repo dilansri/react-movies
+Electron
+redux
+developer tools
+Virtual Dom
+diff algorithm
+One way data-flow
+react has something like state
+sets state: direct eval access
+(setstate)
+// Design Pattern
+singleton design pattern class called component /// this is like a singleton Object
+ES6 Classes
+Functional Programm 
+No Directives and 
+	props(Used to pass Values){prototype}// Props are immutable
+Express Points
+
+
+// Angular Fantom JS
+// server side rendering
+// Angular JS two way data flow
+// Angular has no direct eval access
+// 
+
